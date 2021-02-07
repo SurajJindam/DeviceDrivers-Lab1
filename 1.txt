@@ -1,0 +1,27 @@
+Daemons running in machine:
+
+Unix daemons typically have a name ending with a d.
+
+1)systemd - Program which spawns all other processes.
+
+2)crond - Time-based job scheduler, runs jobs in the background.
+
+3)httpd - Web Server Daemon
+
+4)dhcpd - It Dynamically configures TCP/IP information for clients.
+
+5)biod - Works in cooperation with the remote nfsd to handle client NFS requests.
+
+6)sshd - It Listens for secure shell requests from clients.
+
+7)syncd - Periodically keeps the file systems synchronized with system memory.
+
+8)memcached - In-memory distributed object caching daemon
+
+9)atd - Runs jobs queued using the at tool
+
+10)gated - routing daemon that handles multiple routing protocols and replaces routed and egpup
+
+11)nfsd - Network File Sharing Daemon
+
+12)nfslock - Used to start and stop nfs file locking services
